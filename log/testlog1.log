@@ -1,0 +1,126 @@
+2019-08-23 19:33:55,665 [main] INFO InetBanking - url entered
+2019-08-23 19:33:57,378 [main] INFO InetBanking - user id entered
+2019-08-23 19:33:57,571 [main] INFO InetBanking - password entered
+2019-08-23 19:34:02,728 [main] INFO InetBanking - title test passed
+2019-08-23 21:56:43,720 [main] INFO InetBanking - url entered
+2019-08-23 21:56:44,756 [main] INFO InetBanking - user id entered
+2019-08-23 21:56:44,920 [main] INFO InetBanking - password entered
+2019-08-23 21:56:49,102 [main] INFO InetBanking - title test passed
+2019-08-23 22:37:55,293 [main] INFO InetBanking - user id entered
+2019-08-23 22:37:55,691 [main] INFO InetBanking - password entered
+2019-08-23 22:38:00,164 [main] INFO InetBanking - title test passed
+2019-08-23 23:27:56,431 [main] INFO InetBanking - user id entered
+2019-08-23 23:27:57,087 [main] INFO InetBanking - password entered
+2019-08-23 23:28:09,074 [main] INFO InetBanking - title test passed
+2019-08-23 23:31:40,452 [main] INFO InetBanking - user id entered
+2019-08-23 23:31:40,888 [main] INFO InetBanking - password entered
+2019-08-23 23:31:48,065 [main] INFO InetBanking - title test is failed
+2019-08-23 23:38:53,410 [main] INFO InetBanking - user id entered
+2019-08-23 23:38:53,718 [main] INFO InetBanking - password entered
+2019-08-23 23:38:59,253 [main] INFO InetBanking - title test is failed
+2019-08-23 23:40:38,667 [main] INFO InetBanking - user id entered
+2019-08-23 23:40:38,815 [main] INFO InetBanking - password entered
+2019-08-23 23:40:43,596 [main] INFO InetBanking - title test is failed
+2019-08-24 11:48:26,289 [main] INFO InetBanking - user id entered
+2019-08-24 11:48:26,689 [main] INFO InetBanking - password entered
+2019-08-24 11:48:32,806 [main] INFO InetBanking - title test is failed
+2019-08-24 11:49:06,776 [main] INFO InetBanking - user name provided
+2019-08-24 11:49:06,959 [main] INFO InetBanking - password provided
+2019-08-24 11:49:14,295 [main] INFO InetBanking - Login passed
+2019-08-24 11:49:52,581 [main] INFO InetBanking - user name provided
+2019-08-24 11:49:52,739 [main] INFO InetBanking - password provided
+2019-08-24 11:50:27,190 [main] INFO InetBanking - user name provided
+2019-08-24 11:50:27,498 [main] INFO InetBanking - password provided
+2019-08-24 11:50:59,428 [main] INFO InetBanking - user name provided
+2019-08-24 11:50:59,653 [main] INFO InetBanking - password provided
+2019-08-24 17:43:27,786 [main] INFO InetBanking - user id entered
+2019-08-24 17:43:28,269 [main] INFO InetBanking - password entered
+2019-08-24 17:43:36,294 [main] INFO InetBanking - title test is failed
+2019-08-24 17:44:38,204 [main] INFO InetBanking - user name provided
+2019-08-24 17:44:38,730 [main] INFO InetBanking - password provided
+2019-08-24 17:44:46,638 [main] INFO InetBanking - Login passed
+2019-08-24 17:45:34,880 [main] INFO InetBanking - user name provided
+2019-08-24 17:45:35,111 [main] INFO InetBanking - password provided
+2019-08-24 17:46:04,193 [main] INFO InetBanking - user name provided
+2019-08-24 17:46:04,427 [main] INFO InetBanking - password provided
+2019-08-24 17:46:40,342 [main] INFO InetBanking - user name provided
+2019-08-24 17:46:40,597 [main] INFO InetBanking - password provided
+2019-08-24 19:28:40,260 [main] INFO InetBanking - User name is provided
+2019-08-24 19:28:40,586 [main] INFO InetBanking - Passsword is provided
+2019-08-24 19:29:01,668 [main] INFO InetBanking - providing customer details....
+2019-08-24 19:29:13,387 [main] INFO InetBanking - validation started....
+2019-08-24 19:29:13,410 [main] INFO InetBanking - test case failed....
+2019-08-25 19:08:35,147 [main] INFO InetBanking - user id entered
+2019-08-25 19:08:35,470 [main] INFO InetBanking - password entered
+2019-08-25 19:08:41,511 [main] INFO InetBanking - title test is failed
+2019-08-25 19:09:24,891 [main] INFO InetBanking - user name provided
+2019-08-25 19:09:25,086 [main] INFO InetBanking - password provided
+2019-08-25 19:09:32,609 [main] INFO InetBanking - Login passed
+2019-08-25 19:10:19,966 [main] INFO InetBanking - user name provided
+2019-08-25 19:10:20,238 [main] INFO InetBanking - password provided
+2019-08-25 19:11:03,008 [main] INFO InetBanking - user name provided
+2019-08-25 19:11:03,277 [main] INFO InetBanking - password provided
+2019-08-25 19:11:43,115 [main] INFO InetBanking - user name provided
+2019-08-25 19:11:43,943 [main] INFO InetBanking - password provided
+2019-08-25 19:12:22,239 [main] INFO InetBanking - User name is provided
+2019-08-25 19:12:22,450 [main] INFO InetBanking - Passsword is provided
+2019-08-25 19:12:33,206 [main] INFO InetBanking - providing customer details....
+2019-08-25 19:12:46,162 [main] INFO InetBanking - validation started....
+2019-08-25 19:12:46,188 [main] INFO InetBanking - test case failed....
+2019-08-25 21:45:25,450 [main] INFO InetBanking - User name is provided
+2019-08-25 21:45:26,417 [main] INFO InetBanking - Passsword is provided
+2019-08-25 21:45:35,819 [main] INFO InetBanking - providing customer details....
+2019-08-25 21:45:47,240 [main] INFO InetBanking - validation started....
+2019-08-25 21:45:47,277 [main] INFO InetBanking - test case failed....
+2019-08-26 09:09:24,053 [main] INFO InetBanking - User name is provided
+2019-08-26 09:09:24,735 [main] INFO InetBanking - Passsword is provided
+2019-08-26 09:09:35,142 [main] INFO InetBanking - providing customer details....
+2019-08-26 09:09:40,138 [main] INFO InetBanking - validation started....
+2019-08-26 09:09:40,228 [main] INFO InetBanking - test case failed....
+2019-08-26 09:20:53,599 [main] INFO InetBanking - User name is provided
+2019-08-26 09:20:53,915 [main] INFO InetBanking - Passsword is provided
+2019-08-26 09:21:03,356 [main] INFO InetBanking - providing customer details....
+2019-08-26 09:21:07,661 [main] INFO InetBanking - validation started....
+2019-08-26 09:21:07,686 [main] INFO InetBanking - test case failed....
+2019-08-26 09:33:31,967 [main] INFO InetBanking - User name is provided
+2019-08-26 09:33:32,262 [main] INFO InetBanking - Passsword is provided
+2019-08-26 09:33:39,443 [main] INFO InetBanking - providing customer details....
+2019-08-26 09:33:44,215 [main] INFO InetBanking - validation started....
+2019-08-26 09:33:44,265 [main] INFO InetBanking - test case failed....
+2019-08-26 09:37:06,612 [main] INFO InetBanking - User name is provided
+2019-08-26 09:37:06,799 [main] INFO InetBanking - Passsword is provided
+2019-08-26 09:37:14,260 [main] INFO InetBanking - providing customer details....
+2019-08-26 09:37:21,780 [main] INFO InetBanking - validation started....
+2019-08-26 09:37:21,826 [main] INFO InetBanking - test case failed....
+2019-08-26 09:37:36,158 [main] INFO InetBanking - User name is provided
+2019-08-26 09:37:36,509 [main] INFO InetBanking - Passsword is provided
+2019-08-26 09:37:43,699 [main] INFO InetBanking - providing customer details....
+2019-08-26 09:37:50,872 [main] INFO InetBanking - validation started....
+2019-08-26 10:44:58,750 [main] INFO InetBanking - User name is provided
+2019-08-26 10:44:59,069 [main] INFO InetBanking - Passsword is provided
+2019-08-26 10:46:33,823 [main] INFO InetBanking - User name is provided
+2019-08-26 10:46:34,051 [main] INFO InetBanking - Passsword is provided
+2019-08-26 10:52:31,286 [main] INFO InetBanking - User name is provided
+2019-08-26 10:52:31,517 [main] INFO InetBanking - Passsword is provided
+2019-08-26 10:55:14,205 [main] INFO InetBanking - User name is provided
+2019-08-26 10:55:14,435 [main] INFO InetBanking - Passsword is provided
+2019-08-26 10:59:16,967 [main] INFO InetBanking - User name is provided
+2019-08-26 10:59:17,167 [main] INFO InetBanking - Passsword is provided
+2019-08-26 11:04:55,343 [main] INFO InetBanking - User name is provided
+2019-08-26 11:04:55,538 [main] INFO InetBanking - Passsword is provided
+2019-08-26 11:09:55,076 [main] INFO InetBanking - User name is provided
+2019-08-26 11:09:55,310 [main] INFO InetBanking - Passsword is provided
+2019-08-26 11:13:46,990 [main] INFO InetBanking - User name is provided
+2019-08-26 11:13:47,211 [main] INFO InetBanking - Passsword is provided
+2019-08-26 12:44:39,424 [main] INFO InetBanking - user id entered
+2019-08-26 12:44:39,976 [main] INFO InetBanking - password entered
+2019-08-26 12:44:45,716 [main] INFO InetBanking - title test is failed
+2019-08-26 12:45:34,415 [main] INFO InetBanking - User name is provided
+2019-08-26 12:45:34,631 [main] INFO InetBanking - Passsword is provided
+2019-08-26 12:45:45,160 [main] INFO InetBanking - providing customer details....
+2019-08-26 12:45:53,055 [main] INFO InetBanking - validation started....
+2019-08-26 12:45:53,115 [main] INFO InetBanking - test case failed....
+2019-08-26 12:46:12,723 [main] INFO InetBanking - User name is provided
+2019-08-26 12:46:12,907 [main] INFO InetBanking - Passsword is provided
+2019-08-26 12:46:21,773 [main] INFO InetBanking - providing customer details....
+2019-08-26 12:46:28,583 [main] INFO InetBanking - validation started....
